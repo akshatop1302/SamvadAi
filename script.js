@@ -35,7 +35,7 @@ function getHeaders() {
     };
 }
 
-const API_KEY = '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';
+const API_KEY = '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';
 
 async function generateSpeech(userres) {
     const inputText = userres;
